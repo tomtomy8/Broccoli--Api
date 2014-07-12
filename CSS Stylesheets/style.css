@@ -1,3 +1,64 @@
 /*
 Style sheet by Louis de Wardt and Tommy Birt - Copyright belongs to Tommy Birt
 */
+
+
+
+
+
+
+
+
+/*
+Columns
+*/
+.col-0
+{
+	position: absolute;
+	left:0px;
+}
+.col-1
+{
+	position: absolute;
+	left:10%;
+}
+.col-2
+{
+	position: absolute;
+	left:20%;
+}
+.col-3
+{
+	position: absolute;
+	left:30%;
+}
+.col-4
+{
+	position: absolute;
+	left:40%;
+}
+.col-5
+{
+	position: absolute;
+	left:50%;
+}
+.col-6
+{
+	position: absolute;
+	left:60%;
+}
+.col-7
+{
+	position: absolute;
+	left:70%;
+}
+.col-8
+{
+	position: absolute;
+	left:80%;
+}
+.col-9
+{
+	position: absolute;
+	left:90%;
+}

@@ -49,12 +49,12 @@ Fonts
 /*
 Elements
 */
-.p
+p
 {
     font-family: "Lato", Helvetica, Arial, sans-serif;
     color: #CCD6CC;
 }
-.p:hover
+p:hover
 {
     color: #00CC00;
 }

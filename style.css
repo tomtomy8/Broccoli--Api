@@ -121,6 +121,49 @@ Columns
 	left:90%;
 }
 
+/*
+Colours
+*/
+
+.redText {
+    color:#E04C4C;
+}
+
+.redBackground {
+    background-color:#E04C4C;
+}
+
+.yellowText {
+    color:#FAEC2D;
+}
+
+.yellowBackground {
+    background-color:#FAEC2D;
+}
+
+.blueText {
+    color:#5454FF;
+}
+
+.blueBackground {
+    background-color:#5454FF;
+}
+
+.whiteText {
+    color:#FFFFFF;
+}
+
+.whiteBackground {
+    background-color:#FFFFFF;
+}
+
+.blackText {
+    color:#000000;
+}
+
+.blackBackground {
+    background-color:#000000;
+}
 
 /*
 Misc

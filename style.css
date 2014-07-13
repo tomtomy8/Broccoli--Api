@@ -51,21 +51,31 @@ Elements
 */
 p
 {
+  font-family: "Lato", Helvetica, Arial, sans-serif;
+  color: #00CC00;
+  font-weight: bold;
+}
+small
+{
     font-family: "Lato", Helvetica, Arial, sans-serif;
     color: #CCD6CC;
 }
-p:hover
+small:hover
 {
     color: #00CC00;
 }
-
+em
+{
+  font-style:italic;
+  color:#49345e;  
+}
 h1,
 h2,
 h3,
 h4,
 h5,
 h6{
-    font-family: "Lato", Helvetica, Arial, sans-serif;
+  font-family: "Lato", Helvetica, Arial, sans-serif;
 	color:#49345e;	
 }
 /*
